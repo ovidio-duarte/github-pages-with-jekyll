@@ -9,10 +9,10 @@ I'm glad you are here. I plan to talk about python, economics and engineering ( 
 
 
 ## About me
-# English
+# My Resume
 ### **Bachelor degree in Mining Engineering**
  - Monitor of programming for two years
 
-# Português
+# Currículo
 ### **Graduado em Engenharia de Minas**
  - Monitor de programação de computadores por dois anos
